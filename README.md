@@ -1,6 +1,8 @@
 # Lynx-Lang
 
-:cat: Lynx-Lang is an educational project for learning how programming language is made.
+[![CI](https://github.com/linc2046/lynx-lang/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/linc2046/lynx-lang/actions/workflows/ci.yml)
+
+:cat: `Lynx-Lang` is an educational project for learning how programming language is made.
 
 ## Prerequisites
 
