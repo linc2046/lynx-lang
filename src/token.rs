@@ -50,16 +50,7 @@ pub enum TokenType {
     WHILE,
     BREAK,
     RETURN,
-
-    // Build in Functions
-    // LEN,
-    // FIRST,
-    // LAST,
-    // REST,
-    // PUSH,
-    // UNSHIFT,
-    // PRINT,
-
+        
     // End of File
     EOF,
 }
