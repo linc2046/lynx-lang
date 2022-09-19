@@ -36,9 +36,6 @@ mod integration_test {
         //         }
         // "#
         //     );
-
-        //     println!("{:?}", value);
-
         //     assert_eq!(format!("{:?}", value), format!("{:?}", Some(Object::Integer(7))));
         assert_eq!(1, 1);
     }
