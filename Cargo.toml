@@ -1,5 +1,5 @@
 [package]
-name = "lynx"
+name = "lynx-lang"
 description = "An educational project for learning how programming language is made."
 version = "0.1.0"
 authors = ["linc2046@gmail.com"]
