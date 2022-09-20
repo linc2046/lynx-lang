@@ -1,4 +1,4 @@
-# Lynx-Lang
+# lynx-lang
 
 [![CI](https://github.com/linc2046/lynx-lang/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/linc2046/lynx-lang/actions/workflows/ci.yml)
 [![Code Coverage](https://github.com/linc2046/lynx-lang/actions/workflows/coverage.yml/badge.svg?branch=main)](https://github.com/linc2046/lynx-lang/actions/workflows/coverage.yml)
