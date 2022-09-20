@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "lynx"
+name = "lynx_lang"
 version = "0.1.0"
