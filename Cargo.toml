@@ -10,7 +10,7 @@ homepage = "https://github.com/linc2046/lynx-lang"
 repository = "https://github.com/linc2046/lynx-lang"
 readme = "README.md"
 keywords = ["learning", "parser", "language"]
-categories = ["Compilers", "Parser implementations"]
+categories = ["compilers", "parser-implementations"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
