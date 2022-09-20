@@ -1,9 +1,9 @@
 #[cfg(test)]
 mod integration_test {
-    use lynx_lang::env::Env;
-    use lynx_lang::evaluator::Evaluator;
-    use lynx_lang::object::Object;
-    use lynx_lang::parser::Parser;
+    use lynxlang::env::Env;
+    use lynxlang::evaluator::Evaluator;
+    use lynxlang::object::Object;
+    use lynxlang::parser::Parser;
     use std::cell::RefCell;
     use std::rc::Rc;
 
