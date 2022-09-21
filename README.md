@@ -3,6 +3,7 @@
 [![CI](https://github.com/linc2046/lynx-lang/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/linc2046/lynx-lang/actions/workflows/ci.yml)
 [![Code Coverage](https://github.com/linc2046/lynx-lang/actions/workflows/coverage.yml/badge.svg?branch=main)](https://github.com/linc2046/lynx-lang/actions/workflows/coverage.yml)
 [![Version info](https://img.shields.io/crates/v/lynxlang.svg)](https://crates.io/crates/lynxlang)
+![GitHub](https://img.shields.io/github/license/linc2046/lynx-lang)
 
 :cat: `lynx-lang` is an educational project for learning how programming language is made.
 
